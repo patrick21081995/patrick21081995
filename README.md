@@ -4,6 +4,10 @@
 
 👯 I’m looking to collaborate on AI projects, data analysis, build prediction models, python programming... and more!
 
+IBM Data Science (Coursera):
+
+- https://www.coursera.org/account/accomplishments/professional-cert/P6YVPLT7ZKQH
+
 📫 How to reach me:
 
 - E-mail: patrick.dosanjos@outlook.com
