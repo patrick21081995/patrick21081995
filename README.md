@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning AI/Machine Learning (IBM), Yellow Belt (TUM) and Metallurgical Engineering (Ifes).
 
-👯 I’m looking to collaborate on AI projects, data analysis, build prediction models, python programming... and more!
+👯 I’m looking to collaborate on AI projects, data analysis, build prediction models, python programming... and more, and more and more!!!!!!
 
 #### IBM Data Science (Coursera):
 
