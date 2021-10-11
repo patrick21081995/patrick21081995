@@ -6,11 +6,11 @@
 
 #### IBM Data Science (Coursera):
 
-— https://www.coursera.org/account/accomplishments/professional-cert/P6YVPLT7ZKQH
+- https://www.coursera.org/account/accomplishments/professional-cert/P6YVPLT7ZKQH
 
 #### IBM AI Engineering (Coursera):
 
-— https://www.coursera.org/account/accomplishments/professional-cert/T346XPGUVA94
+- https://www.coursera.org/account/accomplishments/professional-cert/T346XPGUVA94
 
 📫 How to reach me:
 
