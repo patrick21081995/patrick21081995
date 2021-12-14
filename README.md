@@ -1,4 +1,4 @@
-🔭 I’m currently working on VISKOSITAS, a neural network to predict the viscosity in multicomponent chemical systems, in a GUI (Tkinter) (Beta version) and TSOLIDUS, with some machine learning models (Decision Tree, Neural Network and Linear Regression) to predict the solidus temperature in typical slags in metallurgical systems.
+🔭 I’m currently working on Viskositas, a neural network to predict the viscosity in multicomponent chemical systems, in a GUI (Tkinter) (Beta version) and TSOLIDUS, with some machine learning models (Decision Tree, Neural Network and Linear Regression) to predict the solidus temperature in typical slags in metallurgical systems.
 
 🌱 I’m currently learning Metallurgical Engineering (Ifes).
 
