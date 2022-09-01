@@ -1,8 +1,8 @@
-🌱 I’m currently M. Sc. student in Metallurgical and Materials Engineering (Ifes).
+🌱 I’m currently M. Sc. student in Metallurgical and Materials Engineering (Federal Institute of Espírito Santo - IFES).
 
 Certificates:
 
-#### Lean Six Sigma Yellow Belt (Technische Universität München — TUM)
+#### Lean Six Sigma Yellow Belt (Technische Universität München)
 
 - https://credentials.edx.org/credentials/e1cec9944a734ef7963d39d55071df29/
 
